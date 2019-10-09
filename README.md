@@ -30,6 +30,7 @@ Needs further investigation
 Air conditioning condenser.
 Needs further investigation.
 
+Front crash bar need replacing.
 
 ## Modifications
 
