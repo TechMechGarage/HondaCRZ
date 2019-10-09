@@ -31,8 +31,24 @@ Air conditioning condenser.
 Needs further investigation.
 
 
+## Modifications
 
-## Tools
+List of modifications in priority order (top highest priority)
+
+* Plug in OBD2 port scanner
+
+* Add bonnet lifters (hood struts)
+
+* Black wrap roof and boot/trunk
+* Add window tint (70%)
+
+
+* Build tablet into storage compartment above centre console
+* Add steering wheel volume controls
+* Add power folding wing mirrors
+
+
+## Tool Box
 
 #### in the tool box 
 
