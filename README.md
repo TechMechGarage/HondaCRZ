@@ -51,6 +51,11 @@ List of modifications in priority order (top highest priority)
 
 * new wheels/tyres
 * Coilovers
+* front strut brace
+
+* hpd rear diffuser honda crz
+* Front lip and fog lights
+
 
 * Super charger kit
 
