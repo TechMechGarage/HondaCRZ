@@ -1,5 +1,5 @@
 title: Tech Mech Garage
 logo: /img/logo.png
 description: The Technical Mecheanics (TechMech) Garage.
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
