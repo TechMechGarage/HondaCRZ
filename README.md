@@ -41,11 +41,18 @@ List of modifications in priority order (top highest priority)
 
 * Black wrap roof and boot/trunk
 * Add window tint (70%)
+* headlight protective film
 
+* wrap existing wheels and tyres
 
 * Build tablet into storage compartment above centre console
 * Add steering wheel volume controls
 * Add power folding wing mirrors
+
+* new wheels/tyres
+* Coilovers
+
+* Super charger kit
 
 
 ## Tool Box
