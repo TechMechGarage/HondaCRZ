@@ -12,6 +12,19 @@
 Tech Mech Garage
 
 ## Tools
-<list of tools>
 
+#### in the tool box 
+
+* Socket Set
+* Panel beating hammer
+* Gloves
+
+* Torque wrench 
+
+* Leather polish
+* Application pad
+
+#### to buy...
+
+* heat gun
 
