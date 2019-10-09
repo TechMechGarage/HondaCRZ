@@ -10,6 +10,27 @@
 
 
 Tech Mech Garage
+# Honda CRZ
+
+
+## Repairs
+
+Bonnet alignment. Heat up bonnet hinges, and pull into correct place.
+Need to remove wind screen wiper cover to gain full access to hinges.
+
+Front bumper repair.
+This is a two part repair.
+(1) The main bumper has multiple spots of damage,
+(2) also the centre gill is damaged.
+Main repair will involve bonding broken part together.
+
+Front under tray is damage causing much lower ground clearance.
+Needs further investigation
+
+Air conditioning condenser.
+Needs further investigation.
+
+
 
 ## Tools
 
