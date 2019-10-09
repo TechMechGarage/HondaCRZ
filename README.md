@@ -34,7 +34,13 @@ Front crash bar need replacing.
 
 ## Modifications
 
-List of modifications in priority order (top highest priority)
+#### completed
+
+* ...
+
+#### planned
+
+List of planned modifications (in priority order, top highest priority)
 
 * Plug in OBD2 port scanner
 
