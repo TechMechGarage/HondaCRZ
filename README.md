@@ -94,4 +94,5 @@ List of planned modifications (in priority order, top highest priority)
 #### to buy...
 
 * heat gun
+* cleaning alcohol
 
