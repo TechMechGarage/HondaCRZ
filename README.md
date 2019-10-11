@@ -12,8 +12,27 @@
 Tech Mech Garage
 # Honda CRZ
 
+Project page for my Honda CRZ.
 
-## Repairs
+Total Project cost.
+
+Project cost / time = cost per year
+
+Running Costs
+Insurance yearly
+Tax
+Fuel (~50MPG).
+
+
+Currenly under going a crash repair.
+Read more here
+
+My planned mods here
+My maintainence shedule
+and my tool box.
+
+
+## Crash Repair (new page)
 
 Bonnet alignment. Heat up bonnet hinges, and pull into correct place.
 Need to remove wind screen wiper cover to gain full access to hinges.
@@ -32,7 +51,15 @@ Needs further investigation.
 
 Front crash bar need replacing.
 
-## Modifications
+
+### Cost so far
+
+??
+
+
+
+
+## Modifications (new page)
 
 #### completed
 
@@ -67,7 +94,7 @@ List of planned modifications (in priority order, top highest priority)
 * Super charger kit
 
 
-## Maintenance
+## Maintenance (new page)
 
 | Miles  | Description | 
 |--------|-------------|
@@ -78,7 +105,7 @@ List of planned modifications (in priority order, top highest priority)
 
 
 
-## Tool Box
+## Tool Box (new page)
 
 #### in the tool box 
 
