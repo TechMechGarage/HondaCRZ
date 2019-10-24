@@ -1,5 +1,9 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
+permalink: /Contact/
 ---
+
+### Contact me
+
+Instagram @Tech.Mech.Garage
