@@ -2,6 +2,17 @@
 layout: default
 ---
 
+
+# Test Links
+
+[Contact](./Contact)
+
+[myfirstpost](./2017/08/24/myfirstpost)
+
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
