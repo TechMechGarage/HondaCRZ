@@ -6,6 +6,8 @@ permalink: /ToolBox/
 
 # Tool Box
 
+**I will be updating this over the next few days**
+
 This page lists the items in my tool box that I have used on my Honda CRZ.
 
 
