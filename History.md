@@ -35,11 +35,9 @@ I have documented any serice intervals, repairs and maintenance performed the ca
 | ~12k   | Oct 2012   | Service     |      |
 | ~28k   | Nov 2015   | Service     |      |
 | ~39k   | Mar 2017   | Service     |      |
+| ~41k | Jul 2017 | Near side wing mirror replacement. |  £57  |
 | ~50k   | May 2018   | Service     |      |
 | ~61k   | Feb 2019   | Service     |      |
-| | | |
-| ~41k | Jul 2017 | Near side wing mirror replacement. |  £57  |
-| | | |
+|        |            |             |      |
 | 65,913 | I took ownership. See [my maintenance shedule from this point forwards](https://techmechgarage.github.io/HondaCRZ/Maintenance/) |    |
-| | | |
 
