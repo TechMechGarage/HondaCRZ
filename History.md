@@ -21,6 +21,8 @@ I have documented any serice intervals, repairs and maintenance performed the ca
 
 | Miles  | Description | Cost |
 |:-------|:------------|:-----|
-| 65,913 | Purchased car |    |
 | | | |
-| | | Total Cost £0 |
+| | | |
+| 65,913 | I took ownership. See [my maintainece shedule from this point forwards](https://techmechgarage.github.io/HondaCRZ/Maintenance/) |    |
+| | | |
+
