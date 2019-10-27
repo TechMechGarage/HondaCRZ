@@ -2,11 +2,24 @@
 layout: default
 ---
 
+
 # Honda CRZ
 
-Project page for my Honda CRZ which contains information on:
+Welcome to the project site for my Honda CRZ.
 
-* [Crash Damage Repair (on going since Oct 2019)](./CrashDamageRepair)
+I have recently (Sept 2019) added a CRZ to my garage. 
+It has 65k miles, but one major down side, it has some front end accident damage!
+
+I am attempting to repair the car (mostly) myself.
+My mechanical experience is limited.
+I have changed car light bulbs, but never so much as an oil change, and nothing as extensive as accident damage. 
+
+So this is going to be an interesting journey for me. I hope to learn a lot, and have a nicely modified CRZ by the end.
+
+
+This site contains information on:
+
+* [Crash Damage Repair (on going since Sep 2019)](./CrashDamageRepair)
 * [Custom Modifications](./CustomModifications)
 * [Maintenance](./Maintenance) 
 * [Tool Box](./ToolBox)
@@ -14,112 +27,44 @@ Project page for my Honda CRZ which contains information on:
 Some ways to get [in touch with me](./Contact).
 
 
-Total Project cost.
+## Total Project cost
+
+The total project cost have been aggregated from various aspects of my Honda CRZ ownership (minus fuel costs),
+including the [crash damage repair](./CrashDamageRepair) any [modifications](./CustomModifications), [maintenance](./Maintenance) 
+and the items I have purchased for my [tool box](./ToolBox) for this car.
+
+| Date | Description | Cost | 
+|:-----|:------------|:-----|
+
+| Sep 2019 | Tmp car insurance to drive car home | ~£10 | 
+| Sep 2019 | 12 mths car tax | ~£20 | 
+| Sep 2019 | Tmp car insurance to drive car home | ~£10 | 
+| Sep 2019 | Tmp car insurance to drive car home | ~£10 | 
+|  |  |  |  |  | 
+| Oct 2019 | Total tool cost to date | ~£10 | 
+|  |  |  |  |  | 
+| Oct 2019 | Total repair cost to date | ~£10 | 
+|  |  |  |  |  | 
+| Oct 2019 | Total mods cost to date | ~£10 | 
+|  |  |  |  |  | 
+| Oct 2019 | Total maintenance cost to date | ~£10 | 
+|  |  |  |  |  | 
+|  |  |  |  | Total: £100 | 
+|  |  |  |  | Total/Time(mths) = £?? | 
 
 Project cost / time = cost per year
 
-Running Costs
-Insurance yearly
-Tax
-Fuel (~50MPG).
 
-
-Currenly under going a crash repair.
-Read more here
-
-My planned mods here
-My maintainence shedule
-and my tool box.
-
-
-## Crash Repair (new page)
-
-Bonnet alignment. Heat up bonnet hinges, and pull into correct place.
-Need to remove wind screen wiper cover to gain full access to hinges.
-
-Front bumper repair.
-This is a two part repair.
-(1) The main bumper has multiple spots of damage,
-(2) also the centre gill is damaged.
-Main repair will involve bonding broken part together.
-
-Front under tray is damage causing much lower ground clearance.
-Needs further investigation
-
-Air conditioning condenser.
-Needs further investigation.
-
-Front crash bar need replacing.
-
-
-### Cost so far
-
-??
+Currently under going a [crash damage repair](./CrashDamageRepair).
+See a list of [my planned modifications](./CustomModifications),
+my [maintainence shedule](./Maintenance) 
+and the things in 
+and my [tool box](./ToolBox).
 
 
 
 
-## Modifications (new page)
-
-#### completed
-
-* ...
-
-#### planned
-
-List of planned modifications (in priority order, top highest priority)
-
-* Plug in OBD2 port scanner
-
-* Add bonnet lifters (hood struts)
-
-* Black wrap roof and boot/trunk
-* Add window tint (70%)
-* headlight protective film
-
-* wrap existing wheels and tyres
-
-* Build tablet into storage compartment above centre console
-* Add steering wheel volume controls
-* Add power folding wing mirrors
-
-* new wheels/tyres
-* Coilovers
-* front strut brace
-
-* hpd rear diffuser honda crz
-* Front lip and fog lights
-
-
-* Super charger kit
-
-
-## Maintenance (new page)
-
-| Miles  | Description | 
-|--------|-------------|
-| 65,000 | Purchased car | 
-| 65,000 | Purchased car | 
-| 65,000 | Purchased car | 
 
 
 
-
-## Tool Box (new page)
-
-#### in the tool box 
-
-* Socket Set
-* Panel beating hammer
-* Gloves
-
-* Torque wrench 
-
-* Leather polish
-* Application pad
-
-#### to buy...
-
-* heat gun
-* cleaning alcohol
 
