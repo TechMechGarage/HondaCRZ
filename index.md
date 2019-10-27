@@ -48,8 +48,8 @@ and the items I have purchased for my [tool box](./ToolBox) for this car.
 |  |  |  |  |  | 
 | Oct 2019 | Total maintenance cost to date | ~£10 | 
 |  |  |  |  |  | 
-|  |  |  |  | Total: £100 | 
-|  |  |  |  | Total/Time(mths) = £?? | 
+|  |  | Total: £100 | 
+|  |  | Total/Time(mths) = £?? | 
 
 Project cost / time = cost per year
 
