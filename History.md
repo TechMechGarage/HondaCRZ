@@ -25,7 +25,7 @@ Honda CRZ 2010
 # Previous History
 
 This page lists the previous history of the car before I took ownership. 
-I have documented any serice intervals, repairs and maintenance performed the car from any documents that I was given from the previous owner.
+I have documented any service intervals, repairs and maintenance performed on the car from the documents that I was given from the previous owner.
 
 
 | Miles  | Date       | Description | Cost |
