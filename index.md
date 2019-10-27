@@ -35,7 +35,6 @@ and the items I have purchased for my [tool box](./ToolBox) for this car.
 
 | Date | Description | Cost | 
 |:-----|:------------|:-----|
-
 | Sep 2019 | Tmp car insurance to drive car home | ~£10 | 
 | Sep 2019 | 12 mths car tax | ~£20 | 
 | Sep 2019 | Tmp car insurance to drive car home | ~£10 | 
