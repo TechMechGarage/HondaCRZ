@@ -4,13 +4,22 @@ title: Spec and Previous History (Honda CRZ)
 permalink: /History/
 ---
 
-# Honda CRZ Spec
+# Vehicle Spec
 
-| Miles  | Description | Cost |
-|:-------|:------------|:-----|
-| 65,913 | Purchased car |    |
-| | | |
-| | | Total Cost £0 |
+September 2010
+
+| M  | D | 
+|:-------|:------------|
+| Registered | Sep 2010 |  
+| Make  | Honda |  
+| Model | CRZ S I-VTEC IMA HYBRID  |  
+| Taxation Class | Alternative Fuel  |  
+| Cylinder capacity (cc) | 1497 cc     |
+| CO₂Emissions           | 117 g/km    |
+| Fuel type              | HYBRID ELEC |
+| Vehicle type approval  | M1          |
+| Wheelplan              | 2-AXLE-RIGID BODY |
+| Revenue weight         | 1245kg |
 
 
 # Previous History
