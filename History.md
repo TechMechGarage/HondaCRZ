@@ -45,5 +45,5 @@ I have documented any service intervals, repairs and maintenance performed on th
 | ~48k   | Feb 2018   | MOT Pass    |      |
 | ~61k   | Feb 2019   | Service     |      |
 |        |            |             |      |
-| 65,913 | I took ownership. See [my maintenance shedule from this point forwards](https://techmechgarage.github.io/HondaCRZ/Maintenance/) |    |
+| 65,913 | Sep 2019   |I took ownership. See [my maintenance shedule from this point forwards](https://techmechgarage.github.io/HondaCRZ/Maintenance/) |    |
 
