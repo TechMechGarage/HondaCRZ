@@ -1,8 +1,18 @@
+---
+layout: default
+---
 
-Tech Mech Garage
 # Honda CRZ
 
-Project page for my Honda CRZ.
+Project page for my Honda CRZ which contains information on:
+
+* Crash Damage Repair (on going since Oct 2019)
+* Custom Modifications 
+* Maintenance 
+* Tool Box
+
+Some ways to get [in touch with me](./Contact).
+
 
 Total Project cost.
 
