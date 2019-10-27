@@ -29,6 +29,8 @@ Some ways to get [in touch with me](./Contact).
 
 ## Total Project cost
 
+**I will be updating this over the next few days**
+
 The total project cost have been aggregated from various aspects of my Honda CRZ ownership (minus fuel costs),
 including the [crash damage repair](./CrashDamageRepair) any [modifications](./CustomModifications), [maintenance](./Maintenance) 
 and the items I have purchased for my [tool box](./ToolBox) for this car.
