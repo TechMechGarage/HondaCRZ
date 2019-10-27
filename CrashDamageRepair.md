@@ -6,6 +6,8 @@ permalink: /CrashDamageRepair/
 
 # Crash Damage Repair
 
+**I will be updating this over the next few days**
+
 This pages lists information on the crash damage repair I am attmeping to fix on my Honda CRZ
 (on going since Oct 2019).
 
