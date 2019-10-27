@@ -37,5 +37,8 @@ Needs further investigation.
 
 ### Cost so far
 
-The cost of repair so far is only the tools in tool box.
-
+| Date | Item  | Why? | Store | Cost | 
+|:-----|:------|:-----|:------|:-----|
+| Oct 2019 | Air Con Rad | Needto repair air con rad, and recharge gas | Local Garage | ~£80 | 
+|  |  |  |  |  | 
+|  |  |  |  | Total: £0 | 
