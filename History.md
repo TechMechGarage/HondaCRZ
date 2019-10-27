@@ -6,7 +6,7 @@ permalink: /History/
 
 # Vehicle Spec
 
-September 2010
+Honda CRZ 2010
 
 |   |  | 
 |:-------|:------------|
@@ -31,6 +31,7 @@ I have documented any serice intervals, repairs and maintenance performed the ca
 | Miles  | Description | Cost |
 |:-------|:------------|:-----|
 | | | |
+| ~41k | Near side wing mirror replacement. |  £57  |
 | | | |
 | 65,913 | I took ownership. See [my maintenance shedule from this point forwards](https://techmechgarage.github.io/HondaCRZ/Maintenance/) |    |
 | | | |
