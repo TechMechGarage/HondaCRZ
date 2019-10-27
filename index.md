@@ -6,10 +6,10 @@ layout: default
 
 Project page for my Honda CRZ which contains information on:
 
-* Crash Damage Repair (on going since Oct 2019)
-* Custom Modifications 
-* Maintenance 
-* Tool Box
+* [Crash Damage Repair (on going since Oct 2019)](./CrashDamageRepair)
+* [Custom Modifications](./CustomModifications)
+* [Maintenance](./Maintenance) 
+* [Tool Box](./ToolBox)
 
 Some ways to get [in touch with me](./Contact).
 
