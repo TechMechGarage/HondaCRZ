@@ -8,7 +8,7 @@ permalink: /History/
 
 September 2010
 
-| M  | D | 
+|   |  | 
 |:-------|:------------|
 | Registered | Sep 2010 |  
 | Make  | Honda |  
