@@ -7,7 +7,7 @@ layout: default
 
 Welcome to the project site for my Honda CRZ.
 
-I have recently (Sept 2019) added a CRZ to my garage. 
+I have recently (Sept 2019) added a CRZ to my garage ([Spec and Previous History](./History))).
 It has 65k miles, but one major down side, it has some front end accident damage!
 
 I am attempting to repair the car (mostly) myself.
