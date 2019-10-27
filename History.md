@@ -23,6 +23,6 @@ I have documented any serice intervals, repairs and maintenance performed the ca
 |:-------|:------------|:-----|
 | | | |
 | | | |
-| 65,913 | I took ownership. See [my maintainece shedule from this point forwards](https://techmechgarage.github.io/HondaCRZ/Maintenance/) |    |
+| 65,913 | I took ownership. See [my maintenance shedule from this point forwards](https://techmechgarage.github.io/HondaCRZ/Maintenance/) |    |
 | | | |
 
