@@ -28,10 +28,17 @@ This page lists the previous history of the car before I took ownership.
 I have documented any serice intervals, repairs and maintenance performed the car from any documents that I was given from the previous owner.
 
 
-| Miles  | Description | Cost |
-|:-------|:------------|:-----|
+| Miles  | Date       | Description | Cost |
+|:-------|:-----------|:------------|:-----|
+| ~6k    | Sep 2011   | Half Service (no oil change) Checks and replace *some* filters |      |
+| ~6k    | Oct 2011   | Service     |      |
+| ~12k   | Oct 2012   | Service     |      |
+| ~28k   | Nov 2015   | Service     |      |
+| ~39k   | Mar 2017   | Service     |      |
+| ~50k   | May 2018   | Service     |      |
+| ~61k   | Feb 2019   | Service     |      |
 | | | |
-| ~41k | Near side wing mirror replacement. |  £57  |
+| ~41k | Jul 2017 | Near side wing mirror replacement. |  £57  |
 | | | |
 | 65,913 | I took ownership. See [my maintenance shedule from this point forwards](https://techmechgarage.github.io/HondaCRZ/Maintenance/) |    |
 | | | |
