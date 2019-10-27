@@ -6,3 +6,4 @@ theme: jekyll-theme-minimal
 github:
   is_project_page: false
 github: [metadata]
+google_analytics: UA-149678503-1
