@@ -24,8 +24,8 @@ This page lists maintenance performed on my Honda CRZ.
 This includes major and minor service intervals.
 
 
-| Miles  | Description | Cost |
-|:-------|:------------|:-----|
-| 65,913 | Purchased car |    |
-| | | |
-| | | Total Cost £0 |
+| Miles  | Date | Description | Cost |
+|:-------|:-----|:------------|:-----|
+| 65,913 | Sep 2019 |Purchased car |    |
+| | | | |
+| | | | Total Cost £0 |
