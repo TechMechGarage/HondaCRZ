@@ -7,3 +7,7 @@ github:
   is_project_page: false
 github: [metadata]
 google_analytics: UA-149678503-1
+
+tech_mech:
+    name: Tech Mech
+
