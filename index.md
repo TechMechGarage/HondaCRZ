@@ -9,12 +9,15 @@ Welcome to the project site for my Honda CRZ.
 
 I have recently (Sept 2019) added a CRZ to my garage ([Spec and Previous History](./History)).
 It has 65k miles, but one major down side, it has some front end accident damage!
+(prompting the previous owner to sell)
 
 I am attempting to repair the car (mostly) myself.
-My mechanical experience is limited.
-I have changed car light bulbs, but never so much as an oil change, and nothing as extensive as accident damage. 
+My mechanical experience is very limited.
+My experience is limited to changing headlight bulbs, I have never so much as done oil change, 
+and nothing as extensive as accident damage. 
 
-So this is going to be an interesting journey for me. I hope to learn a lot, and have a nicely modified CRZ by the end.
+So this is going to be an interesting journey for me. I hope to learn a lot, 
+and have a nicely modified custom Honda CRZ by the end.
 
 
 This site contains information on:
@@ -37,8 +40,9 @@ and the items I have purchased for my [tool box](./ToolBox) for this car.
 
 | Date | Description | Cost | 
 |:-----|:------------|:-----|
+| Sep 2019 | Purchasing the vehicle | £1920 | 
 | Sep 2019 | Tmp car insurance to drive car home | ~£10 | 
-| Sep 2019 | 12 mths car tax | ~£20 | 
+| Sep 2019 | 12 mths car tax | £20 | 
 | Sep 2019 | Tmp car insurance to drive car home | ~£10 | 
 | Sep 2019 | Tmp car insurance to drive car home | ~£10 | 
 |  |  |  |  |  | 

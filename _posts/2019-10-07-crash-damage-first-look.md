@@ -7,6 +7,17 @@ author: TechMech
 ---
 
 This is the first look into the crash damage on my Honda CRZ.
+This post consist of two parts:
+(1) my assessment of the crash damage and (2) some initial quotes I got from local body shops.
+
+
+### Crash Damage Assessment
+
+In order to assess the damage, I basically conducted a visual inspection and listed 
+the parts of the car which I think need to be repaired.
+At this stage, I have not removed any parts from the car, I am just looking to
+conduct and preliminary inspection.
+
 
 
 List of damage and potential fixes:
@@ -31,4 +42,10 @@ Needs further investigation.
 
 * Front crash bar need replacing.
 (currently investigating if I can use a crash bar from another honda vehicle, as CRZ parts are not very common.
+
+
+
+### Body Shop Quotes
+
+
 
