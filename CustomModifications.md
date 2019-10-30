@@ -24,32 +24,8 @@ List of planned modifications (in priority order, top highest priority)
 
 |   | <img width=200/> | Modification/ Upgrade  | Store | Who? | Cost | 
 |:--|---|:-----------------------|:------|:-----|:-----|
-|   | ![RearRoofSpoilerWithAerialInsert](https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CustomModifications/RearRoofSpoilerWithAerialInsert.jpg){:height="100px" width="100px"}   | Honda CRZ rear vortex generator roof spoiler (fins) | [ebay](https://www.ebay.co.uk/i/264230222897) | plan to fit myself | £55 (~$70) | 
-|   | ![JDPRearRoofSpoiler](https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CustomModifications/JDPRearRoofSpoiler.jpg){:height="100px" width="100px"}                | JDP Engineering rear roof spoiler | [JDP Engineering](https://www.jdpengineering.com/product-page/jdp-crz-rear-spoiler-10-15) | unsure | ~£225 ($290) | 
-| | | | | | | 
-|   | | | | | Total: ~£280 (~$360) | 
-
-
-|   | Product Image <img style="width:100px;"/> | Modification/ Upgrade  | Store | Who? | Cost | 
-|:--|---|:-----------------------|:------|:-----|:-----|
-|   | <img src="https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CustomModifications/RearRoofSpoilerWithAerialInsert.jpg" style="width:100px;height:100px;" >  | Honda CRZ rear vortex generator roof spoiler (fins) | [ebay](https://www.ebay.co.uk/i/264230222897) | plan to fit myself | £55 (~$70) | 
-|   | <img src="https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CustomModifications/JDPRearRoofSpoiler.jpg" style="width:100px;height:100px;" >  | JDP Engineering rear roof spoiler | [JDP Engineering](https://www.jdpengineering.com/product-page/jdp-crz-rear-spoiler-10-15) | unsure | ~£225 ($290) | 
-| | | | | | | 
-|   | | | | | Total: ~£280 (~$360) | 
-
-
-|   | <img style="width:100px;"/> | Modification/ Upgrade  | Store | Who? | Cost | 
-|:--|---|:-----------------------|:------|:-----|:-----|
-|   | <img src="https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CustomModifications/RearRoofSpoilerWithAerialInsert.jpg" style="width:100px;height:100px;" >  | Honda CRZ rear vortex generator roof spoiler (fins) | [ebay](https://www.ebay.co.uk/i/264230222897) | plan to fit myself | £55 (~$70) | 
-|   | <img src="https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CustomModifications/JDPRearRoofSpoiler.jpg" style="width:100px;height:100px;" >  | JDP Engineering rear roof spoiler | [JDP Engineering](https://www.jdpengineering.com/product-page/jdp-crz-rear-spoiler-10-15) | unsure | ~£225 ($290) | 
-| | | | | | | 
-|   | | | | | Total: ~£280 (~$360) | 
-
-
-|   | <img width=200/> | Modification/ Upgrade  | Store | Who? | Cost | 
-|:--|---|:-----------------------|:------|:-----|:-----|
 |   | <a href="https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CustomModifications/RearRoofSpoilerWithAerialInsert.jpg"><img src="https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CustomModifications/RearRoofSpoilerWithAerialInsert.jpg" style="width:100px;height:100px;"></a>  | Honda CRZ rear vortex generator roof spoiler (fins) | [ebay](https://www.ebay.co.uk/i/264230222897) | plan to fit myself | £55 (~$70) | 
-|   | <img src="https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CustomModifications/JDPRearRoofSpoiler.jpg" style="width:100px;height:100px;"></a>  | JDP Engineering rear roof spoiler | [JDP Engineering](https://www.jdpengineering.com/product-page/jdp-crz-rear-spoiler-10-15) | unsure | ~£225 ($290) | 
+|   | <a href="https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CustomModifications/JDPRearRoofSpoiler.jpg"><img src="https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CustomModifications/JDPRearRoofSpoiler.jpg" style="width:100px;height:100px;"></a>  | JDP Engineering rear roof spoiler | [JDP Engineering](https://www.jdpengineering.com/product-page/jdp-crz-rear-spoiler-10-15) | unsure | ~£225 ($290) | 
 | | | | | | | 
 |   | | | | | Total: ~£280 (~$360) | 
 
@@ -65,6 +41,7 @@ Others...
 * headlight protective film
 
 * wrap existing wheels in black
+* wrap bonnet in carbon fibre
 
 * Build tablet into storage compartment above centre console
 * Add steering wheel volume controls
