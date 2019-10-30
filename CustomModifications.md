@@ -29,7 +29,7 @@ List of planned modifications (in priority order, top highest priority)
 |  |  |  |  |    | 
 |  |  |  |  | Total: £0 | 
 
-![Octocat](https://github.com/TechMechGarage/HondaCRZ/raw/master/img/logo.png)
+![Octocat](https://github.com/TechMechGarage/HondaCRZ/raw/master/img/logo.png =100x20)
 
 
 
