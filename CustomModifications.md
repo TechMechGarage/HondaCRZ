@@ -6,16 +6,26 @@ permalink: /CustomModifications/
 
 # Custom Modifications
 
-info on Custom Modifications to my Honda CRZ.
+This page contain information on my completed, planned and wish list modifications and upgrades for my Honda CRZ.
 
 
 #### Completed
 
-* ...
+| Date | Modification/ Upgrade  | Store | Who? | Cost | 
+|:-----|:------|:-----|:------|:-----|
+|  |  |  |  | £0 | 
+|  |  |  |  |    | 
+|  |  |  |  | Total: £0 | 
+
 
 #### Planned
 
 List of planned modifications (in priority order, top highest priority)
+
+
+
+
+
 
 * Plug in OBD2 port scanner
 
@@ -25,7 +35,7 @@ List of planned modifications (in priority order, top highest priority)
 * Add window tint (70%)
 * headlight protective film
 
-* wrap existing wheels and tyres
+* wrap existing wheels in black
 
 * Build tablet into storage compartment above centre console
 * Add steering wheel volume controls
@@ -35,8 +45,14 @@ List of planned modifications (in priority order, top highest priority)
 * Coilovers
 * front strut brace
 
-* hpd rear diffuser honda crz
+* hpd rear diffuser 
 * Front lip and fog lights
 
 
+#### Wish List
+
+These are modifications and upgrades I would like to make at some point in the future.
+
 * Super charger kit
+
+
