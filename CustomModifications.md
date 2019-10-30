@@ -13,9 +13,8 @@ This page contain information on my completed, planned and wish list modificatio
 
 | Date |   | Modification/ Upgrade  | Store | Who? | Cost | 
 |:-----|:--|:-----------------------|:-----|:------|:-----|
-|  |  |  |  | £0 | 
-|  |  |  |  |    | 
-|  |  |  |  | Total: £0 | 
+| | | | | | | 
+| | | | | | Total: £0 |
 
 
 #### Planned
@@ -24,19 +23,13 @@ List of planned modifications (in priority order, top highest priority)
 
 
 |   |    | Modification/ Upgrade  | Store | Who? | Cost | 
-|:--|:---|:-----------------------|:-----|:------|:-----|
-|   | ![test image size](https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CustomModifications/RearRoofSpoilerWithAerialInsert.jpg){:height="100px" width="100px"}   | Honda CRZ rear vortex generator roof spoiler (fins) | [ebay](https://www.ebay.co.uk/i/264230222897) | plan to fit myself | ~£55 | 
+|:--|:---|:-----------------------|:------|:-----|:-----|
+|   | ![test image size](https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CustomModifications/RearRoofSpoilerWithAerialInsert.jpg){:height="100px" width="100px"}   | Honda CRZ rear vortex generator roof spoiler (fins) | [ebay](https://www.ebay.co.uk/i/264230222897) | plan to fit myself | ~£55  | 
+|   | ![test image size](https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CustomModifications/JDPRearRoofSpoiler.jpg){:height="100px" width="100px"}                | JDP Engineering rear roof spoiler | [JDP Engineering](https://www.jdpengineering.com/product-page/jdp-crz-rear-spoiler-10-15) | unsure | ~$290 | 
 | | | | | | | 
 |   | | | | | Total: £0 | 
 
 
-![alt](https://github.com/TechMechGarage/HondaCRZ/raw/master/img/logo.png =100x20)
-
-![](https://github.com/TechMechGarage/HondaCRZ/raw/master/img/logo.png | width=100)
-
-![test image size](https://github.com/TechMechGarage/HondaCRZ/raw/master/img/logo.png){:height="50%" width="50%"}
-
-![test image size](https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CustomModifications/RearRoofSpoilerWithAerialInsert.jpg){:height="700px" width="400px"}
 
 
 Others...
