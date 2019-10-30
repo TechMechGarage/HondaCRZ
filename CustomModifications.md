@@ -29,11 +29,13 @@ List of planned modifications (in priority order, top highest priority)
 |  |  |  |  |    | 
 |  |  |  |  | Total: £0 | 
 
-![](https://github.com/TechMechGarage/HondaCRZ/raw/master/img/logo.png =100x20)
+![alt](https://github.com/TechMechGarage/HondaCRZ/raw/master/img/logo.png =100x20)
 
 ![](https://github.com/TechMechGarage/HondaCRZ/raw/master/img/logo.png | width=100)
 
+![test image size](https://github.com/TechMechGarage/HondaCRZ/raw/master/img/logo.png){:height="50%" width="50%"}
 
+![test image size](https://github.com/TechMechGarage/HondaCRZ/raw/master/img/logo.png){:height="700px" width="400px"}
 
 
 Others...
@@ -53,12 +55,14 @@ Others...
 * Add steering wheel volume controls
 * Add power folding wing mirrors
 
+* hpd rear diffuser 
+* Front lip and fog lights
+
 * new wheels/tyres
 * Coilovers
 * front strut brace
 
-* hpd rear diffuser 
-* Front lip and fog lights
+
 
 
 #### Wish List
@@ -66,5 +70,5 @@ Others...
 These are modifications and upgrades I would like to make at some point in the future.
 
 * Super charger kit
-
+* Carbon fibre bonnet
 
