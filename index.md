@@ -19,7 +19,7 @@ and nothing as extensive as accident damage.
 So this is going to be an interesting journey for me. I hope to learn a lot, 
 and have a nicely modified custom Honda CRZ by the end.
 
-Follow along with my [Crash Damage Repair (on going since Sep 2019)](./CrashDamageRepair)
+**Follow along with my [Crash Damage Repair!!](./CrashDamageRepair)**
 
 
 This site also contains information on:
