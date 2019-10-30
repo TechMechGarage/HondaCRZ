@@ -22,7 +22,7 @@ This page contain information on my completed, planned and wish list modificatio
 List of planned modifications (in priority order, top highest priority)
 
 
-|   |    | Modification/ Upgrade  | Store | Who? | Cost | 
+|   | <img width=200/> | Modification/ Upgrade  | Store | Who? | Cost | 
 |:--|---|:-----------------------|:------|:-----|:-----|
 |   | ![RearRoofSpoilerWithAerialInsert](https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CustomModifications/RearRoofSpoilerWithAerialInsert.jpg){:height="100px" width="100px"}   | Honda CRZ rear vortex generator roof spoiler (fins) | [ebay](https://www.ebay.co.uk/i/264230222897) | plan to fit myself | £55 (~$70) | 
 |   | ![JDPRearRoofSpoiler](https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CustomModifications/JDPRearRoofSpoiler.jpg){:height="100px" width="100px"}                | JDP Engineering rear roof spoiler | [JDP Engineering](https://www.jdpengineering.com/product-page/jdp-crz-rear-spoiler-10-15) | unsure | ~£225 ($290) | 
@@ -30,7 +30,7 @@ List of planned modifications (in priority order, top highest priority)
 |   | | | | | Total: ~£280 (~$360) | 
 
 
-|   |    | Modification/ Upgrade  | Store | Who? | Cost | 
+|   | <img width=100/> | Modification/ Upgrade  | Store | Who? | Cost | 
 |:--|---|:-----------------------|:------|:-----|:-----|
 |   | <img src="https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CustomModifications/RearRoofSpoilerWithAerialInsert.jpg" style="width:100px;height:100px;" >  | Honda CRZ rear vortex generator roof spoiler (fins) | [ebay](https://www.ebay.co.uk/i/264230222897) | plan to fit myself | £55 (~$70) | 
 |   | <img src="https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CustomModifications/JDPRearRoofSpoiler.jpg" style="width:100px;height:100px;" >  | JDP Engineering rear roof spoiler | [JDP Engineering](https://www.jdpengineering.com/product-page/jdp-crz-rear-spoiler-10-15) | unsure | ~£225 ($290) | 
