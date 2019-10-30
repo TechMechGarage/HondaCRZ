@@ -15,11 +15,12 @@ This pages lists information on the crash damage repair I am attmeping to fix on
 
 | Date | Item  | Why? | Who? | Cost | 
 |:-----|:------|:-----|:------|:-----|
+|  |  |  |  |  | 
+|  |  |  |  | Total: £0 | 
+
 {::comment}
 | Oct 2019 | Air Con Rad | Air con rad was damaged in crash, also needs gas recharge | Local Garage | ~£80 | 
 {:/comment}
-|  |  |  |  |  | 
-|  |  |  |  | Total: £0 | 
 
 
 ## Progress...
