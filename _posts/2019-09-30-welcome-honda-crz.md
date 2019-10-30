@@ -8,7 +8,6 @@ tags: [crash_damage_repair,intro_to_car]
 
 
 Today I am welcoming a 2010 Honda CRZ into my garage.
-
 Here is more information about the [specs and previous history](https://techmechgarage.github.io/HondaCRZ/History/).
 
 

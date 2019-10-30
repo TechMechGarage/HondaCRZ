@@ -9,7 +9,8 @@ author: TechMech
 This is the first look into the crash damage on my Honda CRZ
 ([which I purchased in Sep 2019](https://techmechgarage.github.io/2019/09/30/welcome-honda-crz.html)).
 This post consist of two parts:
-(1) my assessment of the crash damage and (2) some initial quotes I got from local body shops.
+	1. my assessment of the crash damage and 
+	2. some initial quotes I got from local body shops.
 
 
 ### Crash Damage Assessment

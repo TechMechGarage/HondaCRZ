@@ -19,10 +19,11 @@ and nothing as extensive as accident damage.
 So this is going to be an interesting journey for me. I hope to learn a lot, 
 and have a nicely modified custom Honda CRZ by the end.
 
+Follow along with my [Crash Damage Repair (on going since Sep 2019)](./CrashDamageRepair)
 
-This site contains information on:
 
-* [Crash Damage Repair (on going since Sep 2019)](./CrashDamageRepair)
+This site also contains information on:
+
 * [Custom Modifications](./CustomModifications)
 * [Maintenance](./Maintenance) 
 * [Tool Box](./ToolBox)
@@ -62,8 +63,8 @@ Project cost / time = cost per year
 
 Currently under going a [crash damage repair](./CrashDamageRepair).
 See a list of [my planned modifications](./CustomModifications),
-my [maintainence shedule](./Maintenance) 
-and the things in 
+my [maintenance schedule](./Maintenance) 
+and the items in 
 and my [tool box](./ToolBox).
 
 
