@@ -23,11 +23,12 @@ This page contain information on my completed, planned and wish list modificatio
 List of planned modifications (in priority order, top highest priority)
 
 
-|  | | Modification/ Upgrade  | Store | Who? | Cost | 
-|:-----|:-----|:------|:-----|:------|:-----|
-|  | Honda CRZ rear vortex generator roof spoiler (fins) |  |  | £0 | 
-|  |  |  |  |    | 
-|  |  |  |  | Total: £0 | 
+|   |    | Modification/ Upgrade  | Store | Who? | Cost | 
+|:--|:---|:-----------------------|:-----|:------|:-----|
+|   | ![test image size](https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CustomModifications/RearRoofSpoilerWithAerialInsert.jpg){:height="100px" width="100px"}   | Honda CRZ rear vortex generator roof spoiler (fins) | [ebay](https://www.ebay.co.uk/i/264230222897) | plan to fit myself | ~£55 | 
+| | | | | | | 
+|   | | | | | Total: £0 | 
+
 
 ![alt](https://github.com/TechMechGarage/HondaCRZ/raw/master/img/logo.png =100x20)
 
