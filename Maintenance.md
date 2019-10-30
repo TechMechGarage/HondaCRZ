@@ -26,6 +26,6 @@ This includes major and minor service intervals.
 
 | Miles  | Date | Description | Cost |
 |:-------|:-----|:------------|:-----|
-| 65,913 | Sep 2019 |Purchased car |    |
+| 65,913 | Sep 2019 |Purchased car |  --  |
 | | | | |
 | | | | Total Cost £0 |
