@@ -23,8 +23,18 @@ This page contain information on my completed, planned and wish list modificatio
 List of planned modifications (in priority order, top highest priority)
 
 
+|  | Modification/ Upgrade  | Store | Who? | Cost | 
+|:-----|:------|:-----|:------|:-----|
+|  | Honda CRZ rear vortex generator roof spoiler (fins) |  |  | £0 | 
+|  |  |  |  |    | 
+|  |  |  |  | Total: £0 | 
+
+![Octocat](https://github.com/TechMechGarage/HondaCRZ/raw/master/img/logo.png)
 
 
+
+
+Others...
 
 
 * Plug in OBD2 port scanner
