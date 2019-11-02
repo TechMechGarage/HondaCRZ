@@ -24,11 +24,13 @@ Part 3: Cross member lower bulk head.
  
 £ DISCONTINUED 
 
-##### Total: £?
+**Total: £?**
 
 <a href="https://www.parts-honda.uk/honda-cars/CR-Z/2011/BASE/BODY-PARTS/FRONT-BULKHEAD-DASHBOARD/17SZTB01/B__4900/6/20481">
 parts-honda.uk FRONT-BULKHEAD-DASHBOARD
 <a/>
+
+
 
 
 ### Air conditioning 
@@ -43,11 +45,13 @@ Part 4: Condenser assy
 
 £290.03 
 
-##### Total: £290.03
+**Total: £290.03**
 
 <a href="https://www.parts-honda.uk/honda-cars/CR-Z/2011/BASE/BODY-PARTS/AIR-CONDITIONER-CONDENSER-/17SZTB01/B__5800/6/20481">
 parts-honda.uk AIR-CONDITIONER-CONDENSER
 <a/>
+
+
 
 
 ### Front bumper 
@@ -85,15 +89,17 @@ Part 14: Beam (crash bar)
 £213.14
 
 
-##### Total: £880.38
+**Total: £880.38**
 
 <a href="https://www.parts-honda.uk/honda-cars/CR-Z/2011/BASE/UPHOLSTERY/FRONT-BUMPER/17SZTB01/B__4600/5/20481">
 parts-honda.uk FRONT-BUMPER
 <a/>
 
 
-### Bonnet 
 
+
+### Bonnet 
+Engine hood
 
 <a href="https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CrashDamageRepair/HondaCrzPartCatalogue/ENGINE-HOOD-RH-Honda-Cars-CR-Z-2011-BASE-6-speed-manual-B__5101.jpg">
  <img src="https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CrashDamageRepair/HondaCrzPartCatalogue/ENGINE-HOOD-RH-Honda-Cars-CR-Z-2011-BASE-6-speed-manual-B__5101.jpg" style="width:300px;height:300px;">
@@ -104,13 +110,13 @@ Part 1: Hood (not painted)
 (60100-SZT-G00ZZ)
 £350.85
 
-Part 2,3: Hinges, left and right
+Part 2,3: Hinges, left and right (not painted)
 (60120-SZT-G00ZZ) - right
 £32.60
 (60120-SZT-G00ZZ) - left
 £32.60
 
-Total: £416.05
+**Total: £416.05**
 
 <a href="https://www.parts-honda.uk/honda-cars/CR-Z/2011/BASE/BODY-PARTS/ENGINE-HOOD-RH-/17SZTB01/B__5101/6/20481">
 parts-honda.uk ENGINE-HOOD
@@ -118,6 +124,6 @@ parts-honda.uk ENGINE-HOOD
 
 
 
-## Parts List
+## Total Costs of Parts £1586.46 (one discontinued part no longer available)
 
 
