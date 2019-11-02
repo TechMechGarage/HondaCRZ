@@ -22,8 +22,9 @@ and have a nicely modified custom Honda CRZ by the end.
 **Follow along with my [Crash Damage Repair!!](./CrashDamageRepair)**
 
 
-This site also contains information on:
+This site contains information on:
 
+* [Crash Damage Repair](./CrashDamageRepair)
 * [Custom Modifications](./CustomModifications)
 * [Maintenance](./Maintenance) 
 * [Tool Box](./ToolBox)
