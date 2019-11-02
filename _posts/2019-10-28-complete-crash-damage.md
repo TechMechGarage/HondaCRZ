@@ -8,7 +8,7 @@ author: TechMech
 
 The complete list of damage to my Honda CRZ is listed below.
 I have reference each of the parts from the online Honda parts catalogue 
-(which can be found here).
+([which can be found here](https://www.parts-honda.uk/honda-cars/CR-Z/2011)).
 
 
 ### Front bulkhead lower panel
