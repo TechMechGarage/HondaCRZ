@@ -124,6 +124,6 @@ parts-honda.uk ENGINE-HOOD
 
 
 
-## Total Costs of Parts £1586.46 (one discontinued part no longer available)
+## Total Costs of Parts £1586.46 ($2052.24) (one discontinued part no longer available)
 
 
