@@ -17,14 +17,16 @@ This page lists the items in my tool box that I have used on my Honda CRZ.
 
 | Date | Item  | Why? | Store | Cost | 
 |:-----|:------|:-----|:------|:-----|
-| Sep 2019 | Socket Set | Needed for all car related work | Amazon | ~£10 | 
-| Sep 2019 | Panel beating hammer | Thought I might need this for crash damage repair | Amazon | ~£10 | 
-| Sep 2019 | Gloves | To prevent slicing my fingers off | Amazon | ~£10 | 
+| Sep 2019 | Trim Removal Tools | Interior panel removal, also external bumper clips. | Amazon | ~£8.05 ($10.42) | 
+| Sep 2019 | Socket Set | Needed for all car related work | Amazon | £18.85 (~$14.56) | 
+| Sep 2019 | Blue tooth ODB2 plug | Check and diagnose error codes | Amazon | ~£2.23 ($2.89) | 
+| Sep 2019 | Panel beating hammer | Thought I might need this for crash damage repair | Amazon | £17.95 (~$23.23) | 
+| Sep 2019 | Gloves | To prevent slicing my fingers off | Amazon | ~£9.34 ($12.09) | 
 |  |  |  |  |  | 
-| Oct 2019 | Torque wrench | Mainly for torquing wheel nuts to spec | Amazon | ~£10 | 
+| Oct 2019 | Torque wrench | Mainly for torquing wheel and other nuts to spec | Amazon | ~£39.75 ($51.44) | 
 |  |  |  |  |  | 
 | Oct 2019 | Leather polish | To clean and protect seats | Halfords, also on Amazon | ~£10 | 
-| Oct 2019 | Application pad | to apply cleaning polish to seats | Halfords, also on Amazon | ~£10 | 
+| Oct 2019 | Application pad | To apply cleaning polish to seats | Halfords, also on Amazon | ~£10 | 
 |  |  |  |  | Total: £100 | 
 
 

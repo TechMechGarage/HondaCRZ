@@ -14,9 +14,9 @@ Here is more information about the [specs and previous history](https://techmech
 I purchased this car in Sept 2019.
 It has 65k miles, but one major down side, it has some front end accident damage!
 
-I am attempting to repair the car (mostly) myself.
-My mechanical experience is very limited.
-My experience is limited to changing headlight bulbs, I have never so much as done oil change, 
+I am attempting to repair the car myself.
+My mechanical experience is very limited, I have changing headlight bulbs, 
+but never so much as an oil change, 
 and nothing as extensive as accident damage. 
 
 So this is going to be an interesting journey for me. I hope to learn a lot, 
