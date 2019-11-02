@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Complete Crash Damage"
-date:   2019-11-03
+date:   2019-10-28
 tags: [crash_damage_repair]
 author: TechMech
 ---
