@@ -15,7 +15,7 @@ I have reference each of the parts from the online Honda parts catalogue
 Radiator and air conditioning condenser carrier.
 
 <a href="https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CrashDamageRepair/HondaCrzPartCatalogue/FRONT-BUMPER-Honda-Cars-CR-Z-2011-BASE-6-speed-manual-B__4600.jpg">
- <img src="https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CrashDamageRepair/HondaCrzPartCatalogue/FRONT-BUMPER-Honda-Cars-CR-Z-2011-BASE-6-speed-manual-B__4600.jpg" style="width:100px;height:100px;">
+ <img src="https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CrashDamageRepair/HondaCrzPartCatalogue/FRONT-BUMPER-Honda-Cars-CR-Z-2011-BASE-6-speed-manual-B__4600.jpg" style="width:300px;height:300px;">
 </a>
 
 
@@ -32,7 +32,7 @@ parts-honda.uk FRONT-BULKHEAD-DASHBOARD
 Air conditioning condenser assembly.
 
 <a href="https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CrashDamageRepair/HondaCrzPartCatalogue/AIR-CONDITIONER-CONDENSER--Honda-Cars-CR-Z-2011-BASE-6-speed-manual-B__5800.jpg">
- <img src="https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CrashDamageRepair/HondaCrzPartCatalogue/AIR-CONDITIONER-CONDENSER--Honda-Cars-CR-Z-2011-BASE-6-speed-manual-B__5800.jpg" style="width:100px;height:100px;">
+ <img src="https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CrashDamageRepair/HondaCrzPartCatalogue/AIR-CONDITIONER-CONDENSER--Honda-Cars-CR-Z-2011-BASE-6-speed-manual-B__5800.jpg" style="width:300px;height:300px;">
 </a>
 
 Part 4: Condenser assy
@@ -40,7 +40,7 @@ Part 4: Condenser assy
 
 £290.03 (E331.40)
 <a href="https://www.parts-honda.uk/honda-cars/CR-Z/2011/BASE/BODY-PARTS/AIR-CONDITIONER-CONDENSER-/17SZTB01/B__5800/6/20481">
-parts-honda.uk FRONT-BULKHEAD-DASHBOARD
+parts-honda.uk AIR-CONDITIONER-CONDENSER
 <a/>
 
 
