@@ -43,20 +43,20 @@ and the items I have purchased for my [tool box](./ToolBox) for this car.
 | Date | Description | Cost | 
 |:-----|:------------|:-----|
 | Sep 2019 | Purchasing the vehicle | £1920 | 
-| Sep 2019 | Tmp car insurance to drive car home | ~£10 | 
+| Sep 2019 | Tmp car insurance to drive car home | £? | 
 | Sep 2019 | 12 mths car tax | £20 | 
-| Sep 2019 | Tmp car insurance to drive car home | ~£10 | 
-| Sep 2019 | Tmp car insurance to drive car home | ~£10 | 
+| Sep 2019 | Tmp car insurance to test drive, shake down, get repair quotes | £? | 
+| Sep 2019 | Tmp car insurance | £? | 
 |  |  |  |  |  | 
-| Oct 2019 | Total tool cost to date | ~£10 | 
+| Oct 2019 | Total tool cost to date | £? | 
 |  |  |  |  |  | 
-| Oct 2019 | Total repair cost to date | ~£10 | 
+| Oct 2019 | Total repair cost to date | £? | 
 |  |  |  |  |  | 
-| Oct 2019 | Total mods cost to date | ~£10 | 
+| Oct 2019 | Total mods cost to date | £? | 
 |  |  |  |  |  | 
-| Oct 2019 | Total maintenance cost to date | ~£10 | 
+| Oct 2019 | Total maintenance cost to date | £? | 
 |  |  |  |  |  | 
-|  |  | Total: £100 | 
+|  |  | Total: £? | 
 |  |  | Total/Time(mths) = £?? | 
 
 Project cost / time = cost per year
