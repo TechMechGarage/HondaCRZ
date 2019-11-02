@@ -7,13 +7,13 @@ author: TechMech
 ---
 
 This is the first look into the crash damage on my Honda CRZ
-([which I purchased in Sep 2019](https://techmechgarage.github.io/2019/09/30/welcome-honda-crz.html)).
+([which I purchased in Sep 2019](https://techmechgarage.github.io/HondaCRZ/2019/09/30/welcome-honda-crz.html)).
 This post consist of two parts:
-	1. my assessment of the crash damage and 
-	2. some initial quotes I got from local body shops.
+1. my assessment of the crash damage and 
+2. some initial quotes I got from local body shops.
 
 
-### Crash Damage Assessment
+## 1. Crash Damage Assessment
 
 In order to assess the damage, I basically conducted a visual inspection and listed 
 the parts of the car which I think need to be repaired.
@@ -24,7 +24,7 @@ conduct and preliminary inspection.
 
 List of damage and potential fixes:
 
-* Bonnet alignment. 
+## Bonnet alignment
 Heat up bonnet hinges, and pull into correct place. Need to remove wind screen wiper cover to gain full access to hinges.
 
 * Front bumper repair
@@ -43,11 +43,11 @@ Heat up bonnet hinges, and pull into correct place. Need to remove wind screen w
 Needs further investigation.
 
 * Front crash bar need replacing.
-(currently investigating if I can use a crash bar from another honda vehicle, as CRZ parts are not very common.
+(currently investigating if I can use a crash bar from another Honda vehicle, as CRZ parts are not very common.
 
 
 
-### Body Shop Quotes
+## 2. Body Shop Quotes
 
 
 

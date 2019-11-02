@@ -15,8 +15,8 @@ I purchased this car in Sept 2019.
 It has 65k miles, but one major down side, it has some front end accident damage!
 
 I am attempting to repair the car myself.
-My mechanical experience is very limited, I have changing headlight bulbs, 
-but never so much as an oil change, 
+My mechanical experience is very limited, I have changed headlight bulbs in the past,
+but that is all, and never so much as an oil change, 
 and nothing as extensive as accident damage. 
 
 So this is going to be an interesting journey for me. I hope to learn a lot, 
@@ -31,7 +31,7 @@ I am going to be using this site to document the progress I am making.
 
 
 Go to next post and read about my
-[first look at the crash damage](https://techmechgarage.github.io/2019/10/07/crash-damage-first-look.html).
+[first look at the crash damage](https://techmechgarage.github.io/HondaCRZ/2019/10/07/crash-damage-first-look.html).
 
 
 {::comment}

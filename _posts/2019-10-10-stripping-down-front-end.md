@@ -8,6 +8,6 @@ author: TechMech
 
 I started to strip down the front end of my Honda CRZ to get a better idea of the accident damage.
 
-
-
-
+{::comment}
+Video with explanation of front end tear down.
+{:/comment}

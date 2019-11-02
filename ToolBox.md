@@ -6,8 +6,6 @@ permalink: /ToolBox/
 
 # Tool Box
 
-**I will be updating this over the next few days**
-
 This page lists the items in my tool box that I have used on my Honda CRZ.
 
 
@@ -27,7 +25,7 @@ This page lists the items in my tool box that I have used on my Honda CRZ.
 |  |  |  |  |  | 
 | Oct 2019 | Leather polish | To clean and protect seats | Halfords, also on Amazon | ~£10 | 
 | Oct 2019 | Application pad | To apply cleaning polish to seats | Halfords, also on Amazon | ~£10 | 
-|  |  |  |  | Total: £100 | 
+|  |  |  |  | Total: £ | 
 
 
 #### to buy...
