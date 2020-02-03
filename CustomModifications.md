@@ -14,6 +14,7 @@ This page contain information on my completed, planned and wish list modificatio
 | Date |   | Modification/ Upgrade  | Store | Who? | Cost | 
 |:-----|:--|:-----------------------|:-----|:------|:-----|
 | | | | | | | 
+| Nov 2019 |  | Gloss black wrap (sample) | AliExpress | Plan to try to wrap wing mirror myself | £? ($3.13)  | 
 | | | | | | Total: £0 |
 
 
@@ -27,7 +28,7 @@ List of planned modifications (in priority order, top highest priority)
 |   | <a href="https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CustomModifications/RearRoofSpoilerWithAerialInsert.jpg"><img src="https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CustomModifications/RearRoofSpoilerWithAerialInsert.jpg" style="width:100px;height:100px;"></a>  | Honda CRZ rear vortex generator roof spoiler (fins) | [ebay](https://www.ebay.co.uk/i/264230222897) | plan to fit myself | £55 (~$70) | 
 |   | <a href="https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CustomModifications/JDPRearRoofSpoiler.jpg"><img src="https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CustomModifications/JDPRearRoofSpoiler.jpg" style="width:100px;height:100px;"></a>  | JDP Engineering rear roof spoiler | [JDP Engineering](https://www.jdpengineering.com/product-page/jdp-crz-rear-spoiler-10-15) | unsure | ~£225 ($290) | 
 | | | | | | | 
-|   | | | | | Total: ~£280 (~$360) | 
+|   | | | | | Total: £280 ($360) | 
 
 Others...
 
