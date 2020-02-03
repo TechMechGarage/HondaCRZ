@@ -30,8 +30,8 @@ This includes major and minor service intervals.
 |:-------|:-----|:------------|:-----|
 | 65,913 | Sep 2019 |Purchased car |  --  |
 | | | | |
-| 66,??? | Feb 2020 | MOT Pass/Fail |  £??  |
-| 66,??? | Feb 2020 | Service: Oil and Filters |  £??  |
+| 66,129 | Feb 2020 | MOT Pass |  £30  |
+| 66,129 | Feb 2020 | Service: Oil and Filters |  £50  |
 | | | | |
 | | | | Total Cost £0 |
 

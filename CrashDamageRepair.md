@@ -30,7 +30,11 @@ This pages lists information on the crash damage repair I am attempting to fix o
 | Dec 2019 | Paintless Dent Removal Kit | Bonnet repair | Amazon | £35.99 ($?) |
 | Dec 2019 | 40pc plastic retainer clips | Bonnet undercarrage repair (correct size this time) | Amazon | £9.57 ($?) |
 |  |  |  |  |  | 
-|  |  |  |  | Total: £2.06 ($2.67) | 
+| Feb 2020 | Bonnet (primed) | Bonnet repair | Slick Parts | £140 ($?) |
+| Feb 2020 | Bonnet hinges | Bonnet repair | Honda (trade price) | £40 ($?) |
+| Feb 2020 | Paint and fit | Bonnet repair | Local garage | £100 paint + £50 fit ($?) |
+|  |  |  |  |  | 
+|  |  |  |  | Total: £?? ($??) | 
 
 {::comment}
 | Oct 2019 | Air Con Rad | Air con rad was damaged in crash, also needs gas recharge | Local Garage | ~£80 | 
