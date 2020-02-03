@@ -25,6 +25,13 @@ This page lists the items in my tool box that I have used on my Honda CRZ.
 |  |  |  |  |  | 
 | Oct 2019 | Leather polish | To clean and protect seats | Halfords, also on Amazon | ~£10 | 
 | Oct 2019 | Application pad | To apply cleaning polish to seats | Halfords, also on Amazon | ~£10 | 
+|  |  |  |  |  | 
+| Nov 2019 | Wheel chocks | Front undercarrage repair | Amazon | £2.99 ($?) | 
+| Nov 2019 | Jackstands | Front undercarrage repair | Amazon | £19.99 ($?) | 
+|  |  |  |  |  | 
+| Nov 2019 | Nylon car wrapping gloves | vinyl wrap | AliExpress | £? ($1.47) | 
+| Nov 2019 | Vinyl wrap scraper kit | vinyl wrap | AliExpress | £? ($2.65) | 
+|  |  |  |  |  | 
 |  |  |  |  | Total: £ | 
 
 
