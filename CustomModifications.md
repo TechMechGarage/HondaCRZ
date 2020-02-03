@@ -15,20 +15,10 @@ This page contain information on my completed, planned and wish list modificatio
 |:-----|:--|:-----------------------|:-----|:------|:-----|
 | | | | | | | 
 | Nov 2019 | <img src="https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CustomModifications/GlossBlackVinylWrap.jpg" style="width:100px;height:100px;"> | Gloss black wrap (sample) | AliExpress | Plan to try to wrap wing mirror myself | £? ($3.13)  | 
-
-
-| Nov 2019 |  | Bronze wrap (sample) | AliExpress | Plan to try to accents myself | £? ($4.14)  | 
-MatteMetallicBronzeVinylWrap.jpg
-
-| Nov 2019 |  | Coffee brown wrap (sample) | AliExpress | Plan to try to accents myself | £? ($6.36)  | 
-CoffeeBrownVinylWrap.jpg
-
-| Nov 2019 |  | Bonnet lifters/struts | AliExpress | Plan to fit myself (once bonnet repaired) | £? ($34.59)  | 
-BonnetGasStruts.jpg
-
-| Nov 2019 |  | Exhaust Tip | AliExpress | Plan to fit myself | £? ($17.86)  | 
-ExhaustTip.jpg
-
+| Nov 2019 | <img src="https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CustomModifications/MatteMetallicBronzeVinylWrap.jpg" style="width:100px;height:100px;"> | Bronze wrap (sample) | AliExpress | Plan to try to accents myself | £? ($4.14)  | 
+| Nov 2019 | <img src="https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CustomModifications/CoffeeBrownVinylWrap.jpg" style="width:100px;height:100px;"> | Coffee brown wrap (sample) | AliExpress | Plan to try to accents myself | £? ($6.36)  | 
+| Nov 2019 | <img src="https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CustomModifications/BonnetGasStruts.jpg" style="width:100px;height:100px;"> | Bonnet lifters/struts | AliExpress | Plan to fit myself (once bonnet repaired) | £? ($34.59)  | 
+| Nov 2019 | <img src="https://github.com/TechMechGarage/HondaCRZ/raw/master/img/CustomModifications/ExhaustTip.jpg" style="width:100px;height:100px;"> | Exhaust Tip | AliExpress | Plan to fit myself | £? ($17.86)  | 
 | | | | | | Total: £0 |
 
 
