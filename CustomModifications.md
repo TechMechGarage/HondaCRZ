@@ -15,6 +15,8 @@ This page contain information on my completed, planned and wish list modificatio
 |:-----|:--|:-----------------------|:-----|:------|:-----|
 | | | | | | | 
 | Nov 2019 |  | Gloss black wrap (sample) | AliExpress | Plan to try to wrap wing mirror myself | £? ($3.13)  | 
+| Nov 2019 |  | Bronze wrap (sample) | AliExpress | Plan to try to accents myself | £? ($4.14)  | 
+| Nov 2019 |  | Bonnet lifters/struts | AliExpress | Plan to fit myself (once bonnet repaired) | £? ($34.59)  | 
 | | | | | | Total: £0 |
 
 
